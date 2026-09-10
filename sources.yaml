@@ -13,6 +13,27 @@ aggarwalNeuralNetworksDeep2023:
     doi: 10.1007/978-3-031-29642-0
     isbn: 978-3-031-29641-3 978-3-031-29642-0
   author: Aggarwal, Charu C.
+arulkumaranBriefSurveyDeep2017:
+  type: article
+  title: A Brief Survey of Deep Reinforcement Learning
+  volume: '34'
+  issue: '6'
+  page-range: 26-38
+  url:
+    value: http://arxiv.org/abs/1708.05866
+    date: 2026-09-10
+  parent:
+    type: periodical
+    title: IEEE Signal Processing Magazine
+  date: 2017-11
+  serial-number:
+    doi: 10.1109/MSP.2017.2743240
+    issn: 1053-5888
+  author:
+    - Arulkumaran, Kai
+    - Deisenroth, Marc Peter
+    - Brundage, Miles
+    - Bharath, Anil Anthony
 bartosutton:
   type: book
   title: 'Reinforcement learning: an introduction'
