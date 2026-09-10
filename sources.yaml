@@ -1,3 +1,753 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dc66d8db1210dba2421342ca4a23fcff8b071c2ba6d4565f347d4dc09a13f803
-size 18062
+aggarwalNeuralNetworksDeep2023:
+  type: book
+  title: 'Neural Networks and Deep Learning: A Textbook'
+  language: en
+  url:
+    value: https://link.springer.com/10.1007/978-3-031-29642-0
+    date: 2026-09-03
+  publisher:
+    name: Springer International Publishing
+    location: Cham
+  date: 2023
+  serial-number:
+    doi: 10.1007/978-3-031-29642-0
+    isbn: 978-3-031-29641-3 978-3-031-29642-0
+  author: Aggarwal, Charu C.
+bataduwaarachchiDeterministicDelayAwareReinforcement2024:
+  type: report
+  title: Deterministic Delay-Aware Reinforcement Learning
+  url:
+    value: https://www.ssrn.com/abstract=5070797
+    date: 2026-09-09
+  parent:
+    title: DOI.org (Crossref)
+  date: 2024
+  serial-number:
+    doi: 10.2139/ssrn.5070797
+  author:
+    - Bataduwaarachchi, Sathira  Dilshan
+    - Najdovski, Zoran
+    - Trinh, Hieu
+    - Lim, C.  P.
+    - Huynh, Van Thanh
+biMasteringLabyrinthGame2025:
+  type: article
+  title: 'Mastering the Labyrinth Game: Efficient Multimodal Reinforcement Learning with Selective Reconstruction'
+  page-range: 9753-9759
+  url:
+    value: https://ieeexplore.ieee.org/abstract/document/11247146
+    date: 2026-08-18
+  parent:
+    type: proceedings
+    title: 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  date: 2025-10
+  serial-number:
+    doi: 10.1109/IROS60139.2025.11247146
+    issn: 2153-0866
+  author:
+    - Bi, Thomas
+    - Marot, Ethan
+    - Ramachandran, Aswin
+    - D’Andrea, Raffaello
+biSampleEfficientLearningSolve2023:
+  type: report
+  title: Sample-Efficient Learning to Solve a Real-World Labyrinth Game Using Data-Augmented Model-Based Reinforcement Learning
+  url:
+    value: http://arxiv.org/abs/2312.09906
+    date: 2026-08-17
+  parent:
+    title: arXiv.org
+  date: 2023-12-15
+  serial-number:
+    doi: 10.48550/arXiv.2312.09906
+  author:
+    - Bi, Thomas
+    - D'Andrea, Raffaello
+bischlHyperparameterOptimizationFoundations2021:
+  type: report
+  title: 'Hyperparameter Optimization: Foundations, Algorithms, Best Practices and Open Challenges'
+  url:
+    value: http://arxiv.org/abs/2107.05847
+    date: 2026-08-27
+  parent:
+    title: arXiv.org
+  date: 2021-11-24
+  serial-number:
+    doi: 10.48550/arXiv.2107.05847
+  author:
+    - Bischl, Bernd
+    - Binder, Martin
+    - Lang, Michel
+    - Pielok, Tobias
+    - Richter, Jakob
+    - Coors, Stefan
+    - Thomas, Janek
+    - Ullmann, Theresa
+    - Becker, Marc
+    - Boulesteix, Anne-Laure
+    - Deng, Difan
+    - Lindauer, Marius
+bishopDeepLearningFoundations2024a:
+  type: book
+  title: 'Deep Learning: Foundations and Concepts'
+  language: en
+  url:
+    value: https://link.springer.com/10.1007/978-3-031-45468-4
+    date: 2026-09-03
+  publisher:
+    name: Springer International Publishing
+    location: Cham
+  date: 2024
+  serial-number:
+    doi: 10.1007/978-3-031-45468-4
+    isbn: 978-3-031-45467-7 978-3-031-45468-4
+  author:
+    - Bishop, Christopher M.
+    - Bishop, Hugh
+bouTorchRLDatadrivenDecisionmaking2023:
+  type: report
+  title: 'TorchRL: A data-driven decision-making library for PyTorch'
+  url:
+    value: http://arxiv.org/abs/2306.00577
+    date: 2026-09-03
+  parent:
+    title: arXiv.org
+  date: 2023-11-27
+  serial-number:
+    doi: 10.48550/arXiv.2306.00577
+  author:
+    - Bou, Albert
+    - Bettini, Matteo
+    - Dittert, Sebastian
+    - Kumar, Vikash
+    - Sodhani, Shagun
+    - Yang, Xiaomeng
+    - Fabritiis, Gianni De
+    - Moens, Vincent
+busoniuReinforcementLearningDynamic2017:
+  type: book
+  title: Reinforcement Learning and Dynamic Programming Using Function Approximators
+  language: en
+  url:
+    value: https://www.taylorfrancis.com/books/9781439821091
+    date: 2026-09-02
+  publisher:
+    name: CRC Press
+  date: 2017-07-28
+  serial-number:
+    doi: 10.1201/9781439821091
+    isbn: 978-1-4398-2109-1
+  author:
+    - Busoniu, Lucian
+    - Babuska, Robert
+    - De Schutter, Bart
+    - Ernst, Damien
+dalnevoDeepReinforcementLearning2025:
+  type: article
+  title: 'Deep Reinforcement Learning for Autonomous Navigation: Sim-to-Real Transfer on TurtleBots'
+  language: en
+  volume: '59'
+  issue: '26'
+  page-range: 13-18
+  url:
+    value: https://linkinghub.elsevier.com/retrieve/pii/S2405896325026795
+    date: 2026-08-19
+  parent:
+    type: periodical
+    title: IFAC-PapersOnLine
+  date: 2025
+  serial-number:
+    doi: 10.1016/j.ifacol.2025.12.003
+    issn: '24058963'
+  author:
+    - Dal Nevo, Matteo
+    - Turcato, Niccolò
+    - Sinigaglia, Alberto
+    - Lorigiola, Riccardo
+    - Casadei, Olivia
+    - Carli, Ruggero
+    - Cenedese, Angelo
+    - Susto, Gian Antonio
+elasriRTHCPDealingInference2025:
+  type: article
+  title: 'RT-HCP: Dealing with Inference Delays and Sample Efficiency to Learn Directly on Robotic Platforms'
+  page-range: 597-603
+  url:
+    value: https://ieeexplore.ieee.org/document/11247277/
+    date: 2026-09-09
+  parent:
+    type: proceedings
+    title: 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  date: 2025-10
+  serial-number:
+    doi: 10.1109/IROS60139.2025.11247277
+    issn: 2153-0866
+  author:
+    - El Asri, Zakariae
+    - Laiche, Ibrahim
+    - Rambour, Clément
+    - Sigaud, Olivier
+    - Thome, Nicolas
+gangapurwalaLearningLowFrequencyMotion2023:
+  type: article
+  title: Learning Low-Frequency Motion Control for Robust and Dynamic Robot Locomotion
+  page-range: 5085-5091
+  url:
+    value: https://ieeexplore.ieee.org/document/10160357/
+    date: 2026-09-09
+  parent:
+    type: proceedings
+    title: 2023 IEEE International Conference on Robotics and Automation (ICRA)
+  date: 2023-05
+  serial-number:
+    doi: 10.1109/ICRA48891.2023.10160357
+  author:
+    - Gangapurwala, Siddhant
+    - Campanaro, Luigi
+    - Havoutis, Ioannis
+hafnerDreamControlLearning2019:
+  type: article
+  title: 'Dream to Control: Learning Behaviors by Latent Imagination'
+  url:
+    value: https://www.semanticscholar.org/paper/Dream-to-Control%3A-Learning-Behaviors-by-Latent-Hafner-Lillicrap/270b95262f2100c279c4c65ef2521473841ca8ad
+    date: 2026-08-19
+  parent:
+    type: periodical
+    title: ArXiv
+  date: 2019-12-03
+  author:
+    - Hafner, Danijar
+    - Lillicrap, T.
+    - Ba, Jimmy
+    - Norouzi, Mohammad
+hafnerLearningLatentDynamics2018:
+  type: article
+  title: Learning Latent Dynamics for Planning from Pixels
+  url:
+    value: https://www.semanticscholar.org/paper/Learning-Latent-Dynamics-for-Planning-from-Pixels-Hafner-Lillicrap/fea3e63c97c7292dc6fbcb3ffe7131eb54053986
+    date: 2026-08-19
+  parent:
+    type: periodical
+    title: ArXiv
+  date: 2018-11-12
+  author:
+    - Hafner, Danijar
+    - Lillicrap, T.
+    - Fischer, Ian S.
+    - Villegas, Ruben
+    - Ha, David R.
+    - Lee, Honglak
+    - Davidson, James
+hafnerMasteringDiverseControl2025:
+  type: article
+  title: Mastering diverse control tasks through world models
+  language: en
+  volume: '640'
+  issue: '8059'
+  page-range: 647-653
+  url:
+    value: https://www.nature.com/articles/s41586-025-08744-2
+    date: 2026-08-19
+  parent:
+    type: periodical
+    title: Nature
+  date: 2025-04
+  serial-number:
+    doi: 10.1038/s41586-025-08744-2
+    issn: 1476-4687
+  author:
+    - Hafner, Danijar
+    - Pasukonis, Jurgis
+    - Ba, Jimmy
+    - Lillicrap, Timothy
+hafnerMasteringDiverseDomains2024:
+  type: report
+  title: Mastering Diverse Domains through World Models
+  url:
+    value: http://arxiv.org/abs/2301.04104
+    date: 2026-08-19
+  parent:
+    title: arXiv.org
+  date: 2024-04-17
+  serial-number:
+    doi: 10.48550/arXiv.2301.04104
+  author:
+    - Hafner, Danijar
+    - Pasukonis, Jurgis
+    - Ba, Jimmy
+    - Lillicrap, Timothy
+jaegerInvitationDeepReinforcement2024:
+  type: article
+  title: An Invitation to Deep Reinforcement Learning
+  volume: '7'
+  issue: '1'
+  page-range: 1-80
+  url:
+    value: http://arxiv.org/abs/2312.08365
+    date: 2026-09-02
+  parent:
+    type: periodical
+    title: Foundations and Trends® in Optimization
+  date: 2024-12-10
+  serial-number:
+    doi: 10.1561/2400000049
+    issn: 2167-3888, 2167-3918
+  author:
+    - Jaeger, Bernhard
+    - Geiger, Andreas
+jeffaresIntroductionDiscreteVariational2025:
+  type: report
+  title: An Introduction to Discrete Variational Autoencoders
+  url:
+    value: http://arxiv.org/abs/2505.10344
+    date: 2026-08-21
+  parent:
+    title: arXiv.org
+  date: 2025-05-15
+  serial-number:
+    doi: 10.48550/arXiv.2505.10344
+  author:
+    - Jeffares, Alan
+    - Liu, Liyuan
+julianiUnityGeneralPlatform2020:
+  type: report
+  title: 'Unity: A General Platform for Intelligent Agents'
+  url:
+    value: http://arxiv.org/abs/1809.02627
+    date: 2026-09-03
+  parent:
+    title: arXiv.org
+  date: 2020-05-06
+  serial-number:
+    doi: 10.48550/arXiv.1809.02627
+  author:
+    - Juliani, Arthur
+    - Berges, Vincent-Pierre
+    - Teng, Ervin
+    - Cohen, Andrew
+    - Harper, Jonathan
+    - Elion, Chris
+    - Goy, Chris
+    - Gao, Yuan
+    - Henry, Hunter
+    - Mattar, Marwan
+    - Lange, Danny
+khadkaHardRealTimeBilateral2026:
+  type: article
+  title: A Hard Real-Time Bilateral Teleoperation System for High-Fidelity Robot Learning Data Collection
+  page-range: 222-228
+  url:
+    value: https://ieeexplore.ieee.org/document/11549730/
+    date: 2026-09-09
+  parent:
+    type: proceedings
+    title: 2026 12th International Conference on Control, Automation and Robotics (ICCAR)
+  date: 2026-04
+  serial-number:
+    doi: 10.1109/ICCAR69571.2026.11549730
+    issn: 2251-2454
+  author:
+    - Khadka, Saurav
+    - Pitkäaho, Tomi
+kimSimtoRealTransferDeep2026:
+  type: article
+  title: Sim-to-Real Transfer of Deep Reinforcement Learning for Robotic Pick-and-Place Tasks
+  language: en
+  url:
+    value: https://doi.org/10.1007/s12541-026-01595-5
+    date: 2026-08-19
+  parent:
+    type: periodical
+    title: International Journal of Precision Engineering and Manufacturing
+  date: 2026-07-30
+  serial-number:
+    doi: 10.1007/s12541-026-01595-5
+    issn: 2005-4602
+  author:
+    - Kim, Minseo
+    - Yuk, Do-Gyeong
+    - Lee, Jihyun
+    - Sohn, Jung Woo
+kolveAI2THORInteractive3D2022:
+  type: report
+  title: 'AI2-THOR: An Interactive 3D Environment for Visual AI'
+  url:
+    value: http://arxiv.org/abs/1712.05474
+    date: 2026-09-03
+  parent:
+    title: arXiv.org
+  date: 2022-08-26
+  serial-number:
+    doi: 10.48550/arXiv.1712.05474
+  author:
+    - Kolve, Eric
+    - Mottaghi, Roozbeh
+    - Han, Winson
+    - VanderBilt, Eli
+    - Weihs, Luca
+    - Herrasti, Alvaro
+    - Deitke, Matt
+    - Ehsani, Kiana
+    - Gordon, Daniel
+    - Zhu, Yuke
+    - Kembhavi, Aniruddha
+    - Gupta, Abhinav
+    - Farhadi, Ali
+liangRLlibAbstractionsDistributed2018:
+  type: report
+  title: 'RLlib: Abstractions for Distributed Reinforcement Learning'
+  url:
+    value: http://arxiv.org/abs/1712.09381
+    date: 2026-09-10
+  parent:
+    title: arXiv.org
+  date: 2018-06-29
+  serial-number:
+    doi: 10.48550/arXiv.1712.09381
+  author:
+    - Liang, Eric
+    - Liaw, Richard
+    - Moritz, Philipp
+    - Nishihara, Robert
+    - Fox, Roy
+    - Goldberg, Ken
+    - Gonzalez, Joseph E.
+    - Jordan, Michael I.
+    - Stoica, Ion
+liangRLlibAbstractionsDistributed2018a:
+  type: article
+  title: 'RLlib: Abstractions for Distributed Reinforcement Learning'
+  language: en
+  page-range: 3053-3062
+  url:
+    value: https://proceedings.mlr.press/v80/liang18b.html
+    date: 2026-09-10
+  parent:
+    type: proceedings
+    title: International Conference on Machine Learning
+  date: 2018-07-03
+  serial-number:
+    issn: 2640-3498
+  author:
+    - Liang, Eric
+    - Liaw, Richard
+    - Nishihara, Robert
+    - Moritz, Philipp
+    - Fox, Roy
+    - Goldberg, Ken
+    - Gonzalez, Joseph
+    - Jordan, Michael
+    - Stoica, Ion
+liMathrmR_3OnDeviceRealTime2023:
+  type: article
+  title: '\mathrmR^3: On-Device Real-Time Deep Reinforcement Learning for Autonomous Robotics'
+  page-range: 131-144
+  url:
+    value: https://ieeexplore.ieee.org/document/10406020/
+    date: 2026-09-09
+  parent:
+    type: proceedings
+    title: 2023 IEEE Real-Time Systems Symposium (RTSS)
+  date: 2023-12
+  serial-number:
+    doi: 10.1109/RTSS59052.2023.00021
+    issn: 2576-3172
+  author:
+    - Li, Zexin
+    - Samanta, Aritra
+    - Li, Yufei
+    - Soltoggio, Andrea
+    - Kim, Hyoseung
+    - Liu, Cong
+liuDigitalTwinbasedSimtoreal2022:
+  type: article
+  title: A digital twin-based sim-to-real transfer for deep reinforcement learning-enabled industrial robot grasping
+  language: en
+  volume: '78'
+  page-range: '102365'
+  url:
+    value: https://linkinghub.elsevier.com/retrieve/pii/S0736584522000539
+    date: 2026-08-19
+  parent:
+    type: periodical
+    title: Robotics and Computer-Integrated Manufacturing
+  date: 2022-12
+  serial-number:
+    doi: 10.1016/j.rcim.2022.102365
+    issn: '07365845'
+  author:
+    - Liu, Yongkui
+    - Xu, He
+    - Liu, Ding
+    - Wang, Lihui
+meyerHarnessingDiscreteRepresentations2024:
+  type: report
+  title: Harnessing Discrete Representations For Continual Reinforcement Learning
+  url:
+    value: http://arxiv.org/abs/2312.01203
+    date: 2026-08-22
+  parent:
+    title: arXiv.org
+  date: 2024-07-13
+  serial-number:
+    doi: 10.48550/arXiv.2312.01203
+  author:
+    - Meyer, Edan
+    - White, Adam
+    - Machado, Marlos C.
+MLAgentsTheoryML:
+  type: web
+  title: ML-Agents Theory | ML Agents | 4.1.0
+  url:
+    value: https://docs.unity3d.com/Packages/com.unity.ml-agents@4.1/manual/ML-Agents-Overview.html
+    date: 2026-09-02
+  date: 2026-09-02
+muratoreRobotLearningRandomized2022:
+  type: article
+  title: 'Robot Learning From Randomized Simulations: A Review'
+  language: English
+  volume: '9'
+  url:
+    value: https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2022.799893/full
+    date: 2026-08-18
+  parent:
+    type: periodical
+    title: Frontiers in Robotics and AI
+  date: 2022-04-11
+  serial-number:
+    doi: 10.3389/frobt.2022.799893
+    issn: 2296-9144
+  author:
+    - Muratore, Fabio
+    - Ramos, Fabio
+    - Turk, Greg
+    - Yu, Wenhao
+    - Gienger, Michael
+    - Peters, Jan
+raffinStableBaselines3ReliableReinforcement:
+  type: article
+  title: 'Stable-Baselines3: Reliable Reinforcement Learning Implementations'
+  language: en
+  author:
+    - Raﬃn, Antonin
+    - Hill, Ashley
+    - Gleave, Adam
+    - Kanervisto, Anssi
+    - Ernestus, Maximilian
+    - Dormann, Noah
+ray:
+  type: report
+  title: 'Ray: A Distributed Framework for Emerging AI Applications'
+  url:
+    value: http://arxiv.org/abs/1712.05889
+    date: 2026-09-10
+  parent:
+    title: arXiv.org
+  date: 2018-09-30
+  serial-number:
+    doi: 10.48550/arXiv.1712.05889
+  author:
+    - Moritz, Philipp
+    - Nishihara, Robert
+    - Wang, Stephanie
+    - Tumanov, Alexey
+    - Liaw, Richard
+    - Liang, Eric
+    - Elibol, Melih
+    - Yang, Zongheng
+    - Paul, William
+    - Jordan, Michael I.
+    - Stoica, Ion
+ReviewHyperparameterTuning2026:
+  type: article
+  title: A Review of Hyperparameter Tuning Methods for Reinforcement Learning——Taking DQN, PPO, and A3C Algorithms as Examples
+  volume: '10'
+  issue: '1'
+  url:
+    value: https://www.clausiuspress.com/article/17262.html
+    date: 2026-08-27
+  parent:
+    type: periodical
+    title: Computing, Performance and Communication Systems
+  date: 2026
+  serial-number:
+    doi: 10.23977/cpcs.2026.100101
+    issn: '23718870'
+rothertSimtoRealTransferRobotics2024:
+  type: article
+  title: 'Sim-to-Real Transfer for a Robotics Task: Challenges and Lessons Learned'
+  page-range: 1-8
+  url:
+    value: https://ieeexplore.ieee.org/document/10711073/
+    date: 2026-08-18
+  parent:
+    type: proceedings
+    title: 2024 IEEE 29th International Conference on Emerging Technologies and Factory Automation (ETFA)
+  date: 2024-09
+  serial-number:
+    doi: 10.1109/ETFA61755.2024.10711073
+    issn: 1946-0759
+  author:
+    - Rothert, Jakob Jonas
+    - Lang, Sebastian
+    - Seidel, Martin
+    - Hanses, Magnus
+sandhaSim2RealTransferDeep:
+  type: article
+  title: Sim2Real Transfer for Deep Reinforcement Learning with Stochastic State Transition Delays
+  language: en
+  author:
+    - Sandha, Sandeep Singh
+    - Garcia, Luis
+    - Balaji, Bharathan
+    - Anwar, Fatima M
+    - Srivastava, Mani
+schulmanProximalPolicyOptimization2017:
+  type: article
+  title: Proximal Policy Optimization Algorithms
+  url:
+    value: https://www.semanticscholar.org/paper/Proximal-Policy-Optimization-Algorithms-Schulman-Wolski/dce6f9d4017b1785979e7520fd0834ef8cf02f4b
+    date: 2026-08-19
+  parent:
+    type: periodical
+    title: ArXiv
+  date: 2017-07-20
+  author:
+    - Schulman, John
+    - Wolski, Filip
+    - Dhariwal, Prafulla
+    - Radford, Alec
+    - Klimov, Oleg
+suttonDynaIntegratedArchitecture1991:
+  type: article
+  title: Dyna, an integrated architecture for learning, planning, and reacting
+  language: en
+  volume: '2'
+  issue: '4'
+  page-range: 160-163
+  url:
+    value: https://dl.acm.org/doi/10.1145/122344.122377
+    date: 2026-08-22
+  parent:
+    type: periodical
+    title: ACM SIGART Bulletin
+  date: 1991-07
+  serial-number:
+    doi: 10.1145/122344.122377
+    issn: 0163-5719
+  author: Sutton, Richard S.
+suttonReinforcementLearningIntroduction2020:
+  type: book
+  title: 'Reinforcement learning: an introduction'
+  language: en
+  publisher:
+    name: The MIT Press
+    location: Cambridge, Massachusetts London, England
+  date: 2020
+  serial-number:
+    isbn: 978-0-262-03924-6
+  author:
+    - Sutton, Richard S.
+    - Barto, Andrew
+wangRealTimeReinforcementLearning2023:
+  type: report
+  title: Real-Time Reinforcement Learning for Vision-Based Robotics Utilizing Local and Remote Computers
+  url:
+    value: http://arxiv.org/abs/2210.02317
+    date: 2026-09-10
+  parent:
+    title: arXiv.org
+  date: 2023-06-26
+  serial-number:
+    doi: 10.48550/arXiv.2210.02317
+  author:
+    - Wang, Yan
+    - Vasan, Gautham
+    - Mahmood, A. Rupam
+wangRealTimeReinforcementLearning2023a:
+  type: article
+  title: Real-Time Reinforcement Learning for Vision-Based Robotics Utilizing Local and Remote Computers
+  page-range: 9435-9441
+  url:
+    value: https://ieeexplore.ieee.org/document/10160684/
+    date: 2026-09-10
+  parent:
+    type: proceedings
+    title: 2023 IEEE International Conference on Robotics and Automation (ICRA)
+  date: 2023-05
+  serial-number:
+    doi: 10.1109/ICRA48891.2023.10160684
+  author:
+    - Wang, Yan
+    - Vasan, Gautham
+    - Mahmood, A. Rupam
+yangHyperparameterOptimizationMachine2020:
+  type: article
+  title: 'On Hyperparameter Optimization of Machine Learning Algorithms: Theory and Practice'
+  volume: '415'
+  page-range: 295-316
+  url:
+    value: http://arxiv.org/abs/2007.15745
+    date: 2026-08-27
+  parent:
+    type: periodical
+    title: Neurocomputing
+  date: 2020-11
+  serial-number:
+    doi: 10.1016/j.neucom.2020.07.061
+    issn: '09252312'
+  author:
+    - Yang, Li
+    - Shami, Abdallah
+yuanAsynchronousReinforcementLearning2022:
+  type: report
+  title: Asynchronous Reinforcement Learning for Real-Time Control of Physical Robots
+  url:
+    value: http://arxiv.org/abs/2203.12759
+    date: 2026-09-09
+  parent:
+    title: arXiv.org
+  date: 2022-03-31
+  serial-number:
+    doi: 10.48550/arXiv.2203.12759
+  author:
+    - Yuan, Yufeng
+    - Mahmood, A. Rupam
+zhaoSimtoRealTransferDeep2020:
+  type: article
+  title: 'Sim-to-Real Transfer in Deep Reinforcement Learning for Robotics: a Survey'
+  page-range: 737-744
+  url:
+    value: https://ieeexplore.ieee.org/document/9308468/
+    date: 2026-08-18
+  parent:
+    type: proceedings
+    title: 2020 IEEE Symposium Series on Computational Intelligence (SSCI)
+  date: 2020-12
+  serial-number:
+    doi: 10.1109/SSCI47803.2020.9308468
+  author:
+    - Zhao, Wenshuai
+    - Queralta, Jorge Peña
+    - Westerlund, Tomi
+zhuTargetdrivenVisualNavigation2017:
+  type: article
+  title: Target-driven visual navigation in indoor scenes using deep reinforcement learning
+  page-range: 3357-3364
+  url:
+    value: https://ieeexplore.ieee.org/document/7989381/
+    date: 2026-09-03
+  parent:
+    type: proceedings
+    title: 2017 IEEE International Conference on Robotics and Automation (ICRA)
+  date: 2017-05
+  serial-number:
+    doi: 10.1109/ICRA.2017.7989381
+  author:
+    - Zhu, Yuke
+    - Mottaghi, Roozbeh
+    - Kolve, Eric
+    - Lim, Joseph J.
+    - Gupta, Abhinav
+    - Fei-Fei, Li
+    - Farhadi, Ali
