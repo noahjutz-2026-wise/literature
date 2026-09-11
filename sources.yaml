@@ -632,6 +632,17 @@ ray:
     - Paul, William
     - Jordan, Michael I.
     - Stoica, Ion
+RayV2Architecture:
+  type: web
+  title: Ray v2 Architecture
+  language: en
+  url:
+    value: https://docs.google.com/document/d/1tBw9A4j62ruI5omIJbMxly-la5w4q_TjyJgJL_jN2fI/preview?tab=t.0&usp=embed_facebook
+    date: 2026-09-11
+  parent:
+    type: web
+    title: Google Docs
+  date: 2026-09-11
 relod:
   type: article
   title: Real-Time Reinforcement Learning for Vision-Based Robotics Utilizing Local and Remote Computers
