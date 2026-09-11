@@ -408,6 +408,24 @@ liMathrmR_3OnDeviceRealTime2023:
     - Soltoggio, Andrea
     - Kim, Hyoseung
     - Liu, Cong
+linSelfimprovingReactiveAgents1992:
+  type: article
+  title: Self-improving reactive agents based on reinforcement learning, planning and teaching
+  language: en
+  volume: '8'
+  issue: '3'
+  page-range: 293-321
+  url:
+    value: https://doi.org/10.1007/BF00992699
+    date: 2026-09-10
+  parent:
+    type: periodical
+    title: Machine Learning
+  date: 1992-05-01
+  serial-number:
+    doi: 10.1007/BF00992699
+    issn: 1573-0565
+  author: Lin, Long-Ji
 liuDigitalTwinbasedSimtoreal2022:
   type: article
   title: A digital twin-based sim-to-real transfer for deep reinforcement learning-enabled industrial robot grasping
@@ -474,6 +492,26 @@ MLAgentsTheoryML:
     value: https://docs.unity3d.com/Packages/com.unity.ml-agents@4.1/manual/ML-Agents-Overview.html
     date: 2026-09-02
   date: 2026-09-02
+mnihAsynchronousMethodsDeep2016:
+  type: report
+  title: Asynchronous Methods for Deep Reinforcement Learning
+  url:
+    value: http://arxiv.org/abs/1602.01783
+    date: 2026-09-10
+  parent:
+    title: arXiv.org
+  date: 2016-06-16
+  serial-number:
+    doi: 10.48550/arXiv.1602.01783
+  author:
+    - Mnih, Volodymyr
+    - Badia, Adrià Puigdomènech
+    - Mirza, Mehdi
+    - Graves, Alex
+    - Lillicrap, Timothy P.
+    - Harley, Tim
+    - Silver, David
+    - Kavukcuoglu, Koray
 muratoreRobotLearningRandomized2022:
   type: article
   title: 'Robot Learning From Randomized Simulations: A Review'
@@ -496,6 +534,47 @@ muratoreRobotLearningRandomized2022:
     - Yu, Wenhao
     - Gienger, Michael
     - Peters, Jan
+nfq:
+  type: chapter
+  title: Neural Fitted Q Iteration – First Experiences with a Data Efficient Neural Reinforcement Learning Method
+  volume: '3720'
+  page-range: 317-328
+  url:
+    value: http://link.springer.com/10.1007/11564096_32
+    date: 2026-09-10
+  parent:
+    type: book
+    title: 'Machine Learning: ECML 2005'
+    publisher:
+      name: Springer Berlin Heidelberg
+      location: Berlin, Heidelberg
+  date: 2005
+  serial-number:
+    doi: 10.1007/11564096_32
+    isbn: 978-3-540-29243-2 978-3-540-31692-3
+  author: Riedmiller, Martin
+  editor:
+    - Gama, João
+    - Camacho, Rui
+    - Brazdil, Pavel B.
+    - Jorge, Alípio Mário
+    - Torgo, Luís
+  collaborator:
+    - Hutchison, David
+    - Kanade, Takeo
+    - Kittler, Josef
+    - Kleinberg, Jon M.
+    - Mattern, Friedemann
+    - Mitchell, John C.
+    - Naor, Moni
+    - Nierstrasz, Oscar
+    - Pandu Rangan, C.
+    - Steffen, Bernhard
+    - Sudan, Madhu
+    - Terzopoulos, Demetri
+    - Tygar, Dough
+    - Vardi, Moshe Y.
+    - Weikum, Gerhard
 planet:
   type: article
   title: Learning Latent Dynamics for Planning from Pixels
