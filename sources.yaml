@@ -305,6 +305,23 @@ jeffaresIntroductionDiscreteVariational2025:
   author:
     - Jeffares, Alan
     - Liu, Liyuan
+ketkarDeepLearningPython2021:
+  type: book
+  title: 'Deep Learning with Python: Learn Best Practices of Deep Learning Models with PyTorch'
+  language: en
+  url:
+    value: http://link.springer.com/10.1007/978-1-4842-5364-9
+    date: 2026-09-12
+  publisher:
+    name: Apress
+    location: Berkeley, CA
+  date: 2021
+  serial-number:
+    doi: 10.1007/978-1-4842-5364-9
+    isbn: 978-1-4842-5363-2 978-1-4842-5364-9
+  author:
+    - Ketkar, Nikhil
+    - Moolayil, Jojo
 khadkaHardRealTimeBilateral2026:
   type: article
   title: A Hard Real-Time Bilateral Teleoperation System for High-Fidelity Robot Learning Data Collection
@@ -609,6 +626,39 @@ ppo:
     - Dhariwal, Prafulla
     - Radford, Alec
     - Klimov, Oleg
+pytorch:
+  type: report
+  title: 'PyTorch: An Imperative Style, High-Performance Deep Learning Library'
+  url:
+    value: http://arxiv.org/abs/1912.01703
+    date: 2026-09-12
+  parent:
+    title: arXiv.org
+  date: 2019-12-03
+  serial-number:
+    doi: 10.48550/arXiv.1912.01703
+  author:
+    - Paszke, Adam
+    - Gross, Sam
+    - Massa, Francisco
+    - Lerer, Adam
+    - Bradbury, James
+    - Chanan, Gregory
+    - Killeen, Trevor
+    - Lin, Zeming
+    - Gimelshein, Natalia
+    - Antiga, Luca
+    - Desmaison, Alban
+    - Köpf, Andreas
+    - Yang, Edward
+    - DeVito, Zach
+    - Raison, Martin
+    - Tejani, Alykhan
+    - Chilamkurthy, Sasank
+    - Steiner, Benoit
+    - Fang, Lu
+    - Bai, Junjie
+    - Chintala, Soumith
 ray:
   type: report
   title: 'Ray: A Distributed Framework for Emerging AI Applications'
