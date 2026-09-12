@@ -699,6 +699,28 @@ rllib:
     - Gonzalez, Joseph
     - Jordan, Michael
     - Stoica, Ion
+ros2:
+  type: article
+  title: 'Robot Operating System 2: Design, Architecture, and Uses In The Wild'
+  volume: '7'
+  issue: '66'
+  page-range: eabm6074
+  url:
+    value: http://arxiv.org/abs/2211.07752
+    date: 2026-09-11
+  parent:
+    type: periodical
+    title: Science Robotics
+  date: 2022-05-25
+  serial-number:
+    doi: 10.1126/scirobotics.abm6074
+    issn: 2470-9476
+  author:
+    - Macenski, Steve
+    - Foote, Tully
+    - Gerkey, Brian
+    - Lalancette, Chris
+    - Woodall, William
 rothertSimtoRealTransferRobotics2024:
   type: article
   title: 'Sim-to-Real Transfer for a Robotics Task: Challenges and Lessons Learned'
