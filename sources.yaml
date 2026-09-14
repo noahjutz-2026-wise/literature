@@ -256,6 +256,15 @@ gangapurwalaLearningLowFrequencyMotion2023:
     - Gangapurwala, Siddhant
     - Campanaro, Luigi
     - Havoutis, Ioannis
+godoyDeepLearningPyTorch:
+  type: web
+  title: 'Deep Learning with PyTorch Step-by-Step: A Beginner''s Guide'
+  language: en
+  url:
+    value: https://pytorchstepbystep.com
+    date: 2026-09-12
+  date: 2026-09-12
+  author: Godoy, Daniel Voigt
 hafnerMasteringDiverseDomains2024:
   type: report
   title: Mastering Diverse Domains through World Models
