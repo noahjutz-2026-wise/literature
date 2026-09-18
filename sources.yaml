@@ -922,6 +922,23 @@ zhaoSimtoRealTransferDeep2020:
     - Zhao, Wenshuai
     - Queralta, Jorge Peña
     - Westerlund, Tomi
+zhaoSimtoRealTransferDeep2020a:
+  type: article
+  title: 'Sim-to-Real Transfer in Deep Reinforcement Learning for Robotics: a Survey'
+  page-range: 737-744
+  url:
+    value: http://arxiv.org/abs/2009.13303
+    date: 2026-09-18
+  parent:
+    type: proceedings
+    title: 2020 IEEE Symposium Series on Computational Intelligence (SSCI)
+  date: 2020-12-01
+  serial-number:
+    doi: 10.1109/SSCI47803.2020.9308468.
+  author:
+    - Zhao, Wenshuai
+    - Queralta, Jorge Peña
+    - Westerlund, Tomi
 zhuTargetdrivenVisualNavigation2017:
   type: article
   title: Target-driven visual navigation in indoor scenes using deep reinforcement learning
