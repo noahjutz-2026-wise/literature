@@ -858,6 +858,28 @@ torchrl:
     - Yang, Xiaomeng
     - Fabritiis, Gianni De
     - Moens, Vincent
+vacaroSimtoRealReinforcementLearning2019:
+  type: article
+  title: Sim-to-Real in Reinforcement Learning for Everyone
+  page-range: 305-310
+  url:
+    value: https://ieeexplore.ieee.org/document/9018558/
+    date: 2026-09-18
+  parent:
+    type: proceedings
+    title: 2019 Latin American Robotics Symposium (LARS), 2019 Brazilian Symposium on Robotics (SBR) and 2019 Workshop on Robotics in Education (WRE)
+  date: 2019-10
+  serial-number:
+    doi: 10.1109/LARS-SBR-WRE48964.2019.00060
+    issn: 2643-685X
+  author:
+    - Vacaro, Juliano
+    - Marques, Guilherme
+    - Oliveira, Bruna
+    - Paz, Gabriel
+    - Paula, Thomas
+    - Staehler, Wagston
+    - Murphy, David
 wangRealTimeReinforcementLearning2023:
   type: report
   title: Real-Time Reinforcement Learning for Vision-Based Robotics Utilizing Local and Remote Computers
