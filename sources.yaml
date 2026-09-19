@@ -799,6 +799,26 @@ rothertSimtoRealTransferRobotics2024:
     - Lang, Sebastian
     - Seidel, Martin
     - Hanses, Magnus
+salvatoCrossingRealityGap2021:
+  type: article
+  title: 'Crossing the Reality Gap: A Survey on Sim-to-Real Transferability of Robot Controllers in Reinforcement Learning'
+  volume: '9'
+  page-range: 153171-153187
+  url:
+    value: https://ieeexplore.ieee.org/document/9606868/
+    date: 2026-09-18
+  parent:
+    type: periodical
+    title: IEEE Access
+  date: 2021
+  serial-number:
+    doi: 10.1109/ACCESS.2021.3126658
+    issn: 2169-3536
+  author:
+    - Salvato, Erica
+    - Fenu, Gianfranco
+    - Medvet, Eric
+    - Pellegrino, Felice Andrea
 sandhaSim2RealTransferDeep:
   type: article
   title: Sim2Real Transfer for Deep Reinforcement Learning with Stochastic State Transition Delays
