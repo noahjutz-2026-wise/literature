@@ -194,7 +194,7 @@ dgae:
     title: 2025 American Control Conference (ACC)
   date: 2025-07
   serial-number:
-    doi: 10.23919/ACC63710.2025.11107721
+    doi: '2'
     issn: 2378-5861
   author:
     - Shaik, Shahil
@@ -257,6 +257,25 @@ elasriRTHCPDealingInference2025:
     - Rambour, Clément
     - Sigaud, Olivier
     - Thome, Nicolas
+fotiadisImpactSensorActuator2022:
+  type: article
+  title: Impact of Sensor and Actuator Clock Offsets on Reinforcement Learning
+  page-range: 2669-2674
+  url:
+    value: https://ieeexplore.ieee.org/document/9867823/
+    date: 2026-09-21
+  parent:
+    type: proceedings
+    title: 2022 American Control Conference (ACC)
+  date: 2022-06
+  serial-number:
+    doi: 10.23919/ACC53348.2022.9867823
+    issn: 2378-5861
+  author:
+    - Fotiadis, Filippos
+    - Kanellopoulos, Aris
+    - Vamvoudakis, Kyriakos G.
+    - Hugues, Jérôme
 gangapurwalaLearningLowFrequencyMotion2023:
   type: article
   title: Learning Low-Frequency Motion Control for Robust and Dynamic Robot Locomotion
@@ -337,6 +356,23 @@ kakadeNaturalPolicyGradient:
   title: A Natural Policy Gradient
   language: en
   author: Kakade, Sham
+karamzadeModelBasedReinforcementLearning2026:
+  type: report
+  title: Model-Based Reinforcement Learning under Random Observation Delays
+  url:
+    value: http://arxiv.org/abs/2509.20869
+    date: 2026-09-21
+  parent:
+    title: arXiv.org
+  date: 2026-04-15
+  serial-number:
+    doi: 10.48550/arXiv.2509.20869
+  author:
+    - Karamzade, Armin
+    - Kim, Kyungmin
+    - Lanier, J. B.
+    - Corsi, Davide
+    - Fox, Roy
 ketkarDeepLearningPython2021:
   type: book
   title: 'Deep Learning with Python: Learn Best Practices of Deep Learning Models with PyTorch'
@@ -583,6 +619,26 @@ muratoreRobotLearningRandomized2022:
     - Yu, Wenhao
     - Gienger, Michael
     - Peters, Jan
+nathRevisitingStateAugmentation2021:
+  type: article
+  title: Revisiting State Augmentation methods for Reinforcement Learning with Stochastic Delays
+  language: en
+  page-range: 1346-1355
+  url:
+    value: https://dl.acm.org/doi/10.1145/3459637.3482386
+    date: 2026-09-21
+  parent:
+    type: proceedings
+    title: 'CIKM ''21: The 30th ACM International Conference on Information and Knowledge Management'
+    location: Virtual Event Queensland Australia
+  date: 2021-10-26
+  serial-number:
+    doi: 10.1145/3459637.3482386
+    isbn: 978-1-4503-8446-9
+  author:
+    - Nath, Somjit
+    - Baranwal, Mayank
+    - Khadilkar, Harshad
 nfq:
   type: chapter
   title: Neural Fitted Q Iteration – First Experiences with a Data Efficient Neural Reinforcement Learning Method
