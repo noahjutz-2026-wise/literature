@@ -239,6 +239,24 @@ elasriRTHCPDealingInference2025:
     - Rambour, Clément
     - Sigaud, Olivier
     - Thome, Nicolas
+gae:
+  type: article
+  title: Generalized Advantage Estimation for Distributional Policy Gradients
+  page-range: 3073-3078
+  url:
+    value: https://ieeexplore.ieee.org/document/11107721/
+    date: 2026-09-21
+  parent:
+    type: proceedings
+    title: 2025 American Control Conference (ACC)
+  date: 2025-07
+  serial-number:
+    doi: 10.23919/ACC63710.2025.11107721
+    issn: 2378-5861
+  author:
+    - Shaik, Shahil
+    - Smereka, Jonathon M.
+    - Wang, Yue
 gangapurwalaLearningLowFrequencyMotion2023:
   type: article
   title: Learning Low-Frequency Motion Control for Robust and Dynamic Robot Locomotion
@@ -314,6 +332,11 @@ jeffaresIntroductionDiscreteVariational2025:
   author:
     - Jeffares, Alan
     - Liu, Liyuan
+kakadeNaturalPolicyGradient:
+  type: article
+  title: A Natural Policy Gradient
+  language: en
+  author: Kakade, Sham
 ketkarDeepLearningPython2021:
   type: book
   title: 'Deep Learning with Python: Learn Best Practices of Deep Learning Models with PyTorch'
@@ -829,6 +852,21 @@ sandhaSim2RealTransferDeep:
     - Balaji, Bharathan
     - Anwar, Fatima M
     - Srivastava, Mani
+shengyi2022the37implementation:
+  type: article
+  title: The 37 implementation details of proximal policy optimization
+  url:
+    value: https://iclr-blog-track.github.io/2022/03/25/ppo-implementation-details/
+  parent:
+    type: proceedings
+    title: ICLR blog track
+  date: 2022
+  author:
+    - Huang, Shengyi
+    - Dossa, Rousslan Fernand Julien
+    - Raffin, Antonin
+    - Kanervisto, Anssi
+    - Wang, Weixun
 stable_baselines3:
   type: article
   title: 'Stable-Baselines3: Reliable Reinforcement Learning Implementations'
@@ -858,6 +896,15 @@ suttonDynaIntegratedArchitecture1991:
     doi: 10.1145/122344.122377
     issn: 0163-5719
   author: Sutton, Richard S.
+suttonPolicyGradientMethods:
+  type: article
+  title: Policy Gradient Methods for Reinforcement Learning with Function Approximation
+  language: en
+  author:
+    - Sutton, Richard S
+    - McAllester, David
+    - Singh, Satinder
+    - Mansour, Yishay
 torchrl:
   type: report
   title: 'TorchRL: A data-driven decision-making library for PyTorch'
@@ -878,6 +925,23 @@ torchrl:
     - Yang, Xiaomeng
     - Fabritiis, Gianni De
     - Moens, Vincent
+trpo:
+  type: report
+  title: Trust Region Policy Optimization
+  url:
+    value: http://arxiv.org/abs/1502.05477
+    date: 2026-09-21
+  parent:
+    title: arXiv.org
+  date: 2017-04-20
+  serial-number:
+    doi: 10.48550/arXiv.1502.05477
+  author:
+    - Schulman, John
+    - Levine, Sergey
+    - Moritz, Philipp
+    - Jordan, Michael I.
+    - Abbeel, Pieter
 vacaroSimtoRealReinforcementLearning2019:
   type: article
   title: Sim-to-Real in Reinforcement Learning for Everyone
