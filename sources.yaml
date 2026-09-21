@@ -182,6 +182,24 @@ dalnevoDeepReinforcementLearning2025:
     - Carli, Ruggero
     - Cenedese, Angelo
     - Susto, Gian Antonio
+dgae:
+  type: article
+  title: Generalized Advantage Estimation for Distributional Policy Gradients
+  page-range: 3073-3078
+  url:
+    value: https://ieeexplore.ieee.org/document/11107721/
+    date: 2026-09-21
+  parent:
+    type: proceedings
+    title: 2025 American Control Conference (ACC)
+  date: 2025-07
+  serial-number:
+    doi: 10.23919/ACC63710.2025.11107721
+    issn: 2378-5861
+  author:
+    - Shaik, Shahil
+    - Smereka, Jonathon M.
+    - Wang, Yue
 dreamerv1:
   type: article
   title: 'Dream to Control: Learning Behaviors by Latent Imagination'
@@ -239,24 +257,6 @@ elasriRTHCPDealingInference2025:
     - Rambour, Clément
     - Sigaud, Olivier
     - Thome, Nicolas
-gae:
-  type: article
-  title: Generalized Advantage Estimation for Distributional Policy Gradients
-  page-range: 3073-3078
-  url:
-    value: https://ieeexplore.ieee.org/document/11107721/
-    date: 2026-09-21
-  parent:
-    type: proceedings
-    title: 2025 American Control Conference (ACC)
-  date: 2025-07
-  serial-number:
-    doi: 10.23919/ACC63710.2025.11107721
-    issn: 2378-5861
-  author:
-    - Shaik, Shahil
-    - Smereka, Jonathon M.
-    - Wang, Yue
 gangapurwalaLearningLowFrequencyMotion2023:
   type: article
   title: Learning Low-Frequency Motion Control for Robust and Dynamic Robot Locomotion
