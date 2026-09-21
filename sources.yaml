@@ -276,6 +276,23 @@ fotiadisImpactSensorActuator2022:
     - Kanellopoulos, Aris
     - Vamvoudakis, Kyriakos G.
     - Hugues, Jérôme
+gae:
+  type: report
+  title: High-Dimensional Continuous Control Using Generalized Advantage Estimation
+  url:
+    value: http://arxiv.org/abs/1506.02438
+    date: 2026-09-21
+  parent:
+    title: arXiv.org
+  date: 2018-10-20
+  serial-number:
+    doi: 10.48550/arXiv.1506.02438
+  author:
+    - Schulman, John
+    - Moritz, Philipp
+    - Levine, Sergey
+    - Jordan, Michael
+    - Abbeel, Pieter
 gangapurwalaLearningLowFrequencyMotion2023:
   type: article
   title: Learning Low-Frequency Motion Control for Robust and Dynamic Robot Locomotion
@@ -943,23 +960,6 @@ sandhaSim2RealTransferDeep:
     - Balaji, Bharathan
     - Anwar, Fatima M
     - Srivastava, Mani
-schulmanHighDimensionalContinuousControl2018:
-  type: report
-  title: High-Dimensional Continuous Control Using Generalized Advantage Estimation
-  url:
-    value: http://arxiv.org/abs/1506.02438
-    date: 2026-09-21
-  parent:
-    title: arXiv.org
-  date: 2018-10-20
-  serial-number:
-    doi: 10.48550/arXiv.1506.02438
-  author:
-    - Schulman, John
-    - Moritz, Philipp
-    - Levine, Sergey
-    - Jordan, Michael
-    - Abbeel, Pieter
 shengyi2022the37implementation:
   type: article
   title: The 37 implementation details of proximal policy optimization
