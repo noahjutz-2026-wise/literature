@@ -351,6 +351,25 @@ jeffaresIntroductionDiscreteVariational2025:
   author:
     - Jeffares, Alan
     - Liu, Liyuan
+jiModelingDynamicsRandom2026:
+  type: article
+  title: Modeling Dynamics under Random Delays in Reinforcement Learning
+  language: en
+  url:
+    value: https://dl.acm.org/doi/10.65109/EAJI2382
+    date: 2026-09-21
+  parent:
+    type: proceedings
+    title: 25th International Conference on Autonomous Agents and Multiagent Systems
+    location: Paphos, Cyprus
+  date: 2026-05-24
+  serial-number:
+    doi: 10.65109/EAJI2382
+    isbn: 979-8-4007-2317-9
+  author:
+    - Ji, Bokai
+    - Li, Guangxia
+    - Shen, Yulong
 kakadeNaturalPolicyGradient:
   type: article
   title: A Natural Policy Gradient
@@ -372,6 +391,22 @@ karamzadeModelBasedReinforcementLearning2026:
     - Kim, Kyungmin
     - Lanier, J. B.
     - Corsi, Davide
+    - Fox, Roy
+karamzadeReinforcementLearningDelayed2024:
+  type: report
+  title: Reinforcement Learning from Delayed Observations via World Models
+  url:
+    value: http://arxiv.org/abs/2403.12309
+    date: 2026-09-21
+  parent:
+    title: arXiv.org
+  date: 2024-06-26
+  serial-number:
+    doi: 10.48550/arXiv.2403.12309
+  author:
+    - Karamzade, Armin
+    - Kim, Kyungmin
+    - Kalsi, Montek
     - Fox, Roy
 ketkarDeepLearningPython2021:
   type: book
@@ -908,6 +943,23 @@ sandhaSim2RealTransferDeep:
     - Balaji, Bharathan
     - Anwar, Fatima M
     - Srivastava, Mani
+schulmanHighDimensionalContinuousControl2018:
+  type: report
+  title: High-Dimensional Continuous Control Using Generalized Advantage Estimation
+  url:
+    value: http://arxiv.org/abs/1506.02438
+    date: 2026-09-21
+  parent:
+    title: arXiv.org
+  date: 2018-10-20
+  serial-number:
+    doi: 10.48550/arXiv.1506.02438
+  author:
+    - Schulman, John
+    - Moritz, Philipp
+    - Levine, Sergey
+    - Jordan, Michael
+    - Abbeel, Pieter
 shengyi2022the37implementation:
   type: article
   title: The 37 implementation details of proximal policy optimization
