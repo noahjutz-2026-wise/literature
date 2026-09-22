@@ -34,6 +34,27 @@ arulkumaranBriefSurveyDeep2017:
     - Deisenroth, Marc Peter
     - Brundage, Miles
     - Bharath, Anil Anthony
+baarSimtoRealTransferLearning2019:
+  type: article
+  title: Sim-to-Real Transfer Learning using Robustified Controllers in Robotic Tasks involving Complex Dynamics
+  page-range: 6001-6007
+  url:
+    value: https://ieeexplore.ieee.org/document/8793561/
+    date: 2026-09-22
+  parent:
+    type: proceedings
+    title: 2019 International Conference on Robotics and Automation (ICRA)
+  date: 2019-05
+  serial-number:
+    doi: 10.1109/ICRA.2019.8793561
+    issn: 2577-087X
+  author:
+    - Baar, Jeroen van
+    - Sullivan, Alan
+    - Cordorel, Radu
+    - Jha, Devesh
+    - Romeres, Diego
+    - Nikovski, Daniel
 bartosutton:
   type: book
   title: 'Reinforcement learning: an introduction'
@@ -385,6 +406,16 @@ jeffaresIntroductionDiscreteVariational2025:
   author:
     - Jeffares, Alan
     - Liu, Liyuan
+jhaLearningTasksComplex:
+  type: article
+  title: Learning Tasks in a Complex Circular Maze Environment
+  language: en
+  author:
+    - Jha, Devesh K
+    - Romeres, Diego
+    - van Baar, Jeroen
+    - Sullivan, Alan
+    - Nikovski, Daniel
 jiModelingDynamicsRandom2026:
   type: article
   title: Modeling Dynamics under Random Delays in Reinforcement Learning
@@ -749,6 +780,33 @@ nfq:
     - Tygar, Dough
     - Vardi, Moshe Y.
     - Weikum, Gerhard
+otaDataEfficientLearningComplex2021:
+  type: article
+  title: Data-Efficient Learning for Complex and Real-Time Physical Problem Solving Using Augmented Simulation
+  volume: '6'
+  issue: '2'
+  page-range: 4241-4248
+  url:
+    value: https://ieeexplore.ieee.org/document/9387127/
+    date: 2026-09-22
+  parent:
+    type: periodical
+    title: IEEE Robotics and Automation Letters
+  date: 2021-04
+  serial-number:
+    doi: 10.1109/LRA.2021.3068887
+    issn: 2377-3766
+  author:
+    - Ota, Kei
+    - Jha, Devesh K.
+    - Romeres, Diego
+    - van Baar, Jeroen
+    - Smith, Kevin A.
+    - Semitsu, Takayuki
+    - Oiki, Tomoaki
+    - Sullivan, Alan
+    - Nikovski, Daniel
+    - Tenenbaum, Joshua B.
 planet:
   type: article
   title: Learning Latent Dynamics for Planning from Pixels
@@ -882,6 +940,25 @@ ReviewHyperparameterTuning2026:
   serial-number:
     doi: 10.23977/cpcs.2026.100101
     issn: '23718870'
+rizzardoSimtorealLatentPrediction2023:
+  type: article
+  title: 'Sim-to-real via latent prediction: Transferring visual non-prehensile manipulation policies'
+  language: English
+  volume: '9'
+  url:
+    value: https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2022.1067502/full
+    date: 2026-09-22
+  parent:
+    type: periodical
+    title: Frontiers in Robotics and AI
+  date: 2023-01-12
+  serial-number:
+    doi: 10.3389/frobt.2022.1067502
+    issn: 2296-9144
+  author:
+    - Rizzardo, Carlo
+    - Chen, Fei
+    - Caldwell, Darwin
 rllib:
   type: article
   title: 'RLlib: Abstractions for Distributed Reinforcement Learning'
@@ -976,6 +1053,26 @@ sandhaSim2RealTransferDeep:
     - Garcia, Luis
     - Balaji, Bharathan
     - Anwar, Fatima M
+    - Srivastava, Mani
+sandhaSim2RealTransferDeep2021:
+  type: article
+  title: Sim2Real Transfer for Deep Reinforcement Learning with Stochastic State Transition Delays
+  language: en
+  page-range: 1066-1083
+  url:
+    value: https://proceedings.mlr.press/v155/sandha21a.html
+    date: 2026-09-22
+  parent:
+    type: proceedings
+    title: Conference on Robot Learning
+  date: 2021-10-04
+  serial-number:
+    issn: 2640-3498
+  author:
+    - Sandha, Sandeep Singh
+    - Garcia, Luis
+    - Balaji, Bharathan
+    - Anwar, Fatima
     - Srivastava, Mani
 shengyi2022the37implementation:
   type: article
@@ -1104,6 +1201,26 @@ wangRealTimeReinforcementLearning2023:
     - Wang, Yan
     - Vasan, Gautham
     - Mahmood, A. Rupam
+wuDayDreamerWorldModels2023:
+  type: article
+  title: 'DayDreamer: World Models for Physical Robot Learning'
+  language: en
+  page-range: 2226-2240
+  url:
+    value: https://proceedings.mlr.press/v205/wu23c.html
+    date: 2026-09-22
+  parent:
+    type: proceedings
+    title: Conference on Robot Learning
+  date: 2023-03-06
+  serial-number:
+    issn: 2640-3498
+  author:
+    - Wu, Philipp
+    - Escontrela, Alejandro
+    - Hafner, Danijar
+    - Abbeel, Pieter
+    - Goldberg, Ken
 xiaoThinkingMovingDeep2020:
   type: report
   title: 'Thinking While Moving: Deep Reinforcement Learning with Concurrent Control'
