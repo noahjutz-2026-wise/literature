@@ -105,6 +105,23 @@ bishopDeepLearningFoundations2024a:
   author:
     - Bishop, Christopher M.
     - Bishop, Hugh
+bouteillerReinforcementLearningRandom2020:
+  type: article
+  title: Reinforcement Learning with Random Delays
+  language: en
+  url:
+    value: https://openreview.net/forum?id=QFYnKlBJYR
+    date: 2026-09-22
+  parent:
+    type: conference
+    title: International Conference on Learning Representations
+  date: 2020-10-02
+  author:
+    - Bouteiller, Yann
+    - Ramstedt, Simon
+    - Beltrame, Giovanni
+    - Pal, Christopher
+    - Binas, Jonathan
 busoniuReinforcementLearningDynamic2017:
   type: book
   title: Reinforcement Learning and Dynamic Programming Using Function Approximators
@@ -1087,6 +1104,25 @@ wangRealTimeReinforcementLearning2023:
     - Wang, Yan
     - Vasan, Gautham
     - Mahmood, A. Rupam
+xiaoThinkingMovingDeep2020:
+  type: report
+  title: 'Thinking While Moving: Deep Reinforcement Learning with Concurrent Control'
+  url:
+    value: http://arxiv.org/abs/2004.06089
+    date: 2026-09-22
+  parent:
+    title: arXiv.org
+  date: 2020-04-25
+  serial-number:
+    doi: 10.48550/arXiv.2004.06089
+  author:
+    - Xiao, Ted
+    - Jang, Eric
+    - Kalashnikov, Dmitry
+    - Levine, Sergey
+    - Ibarz, Julian
+    - Hausman, Karol
+    - Herzog, Alexander
 yangHyperparameterOptimizationMachine2020:
   type: article
   title: 'On Hyperparameter Optimization of Machine Learning Algorithms: Theory and Practice'
