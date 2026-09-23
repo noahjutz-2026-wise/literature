@@ -823,6 +823,27 @@ otaDataEfficientLearningComplex2021:
     - Sullivan, Alan
     - Nikovski, Daniel
     - Tenenbaum, Joshua B.
+parkGymProxyLightweightPython2025:
+  type: article
+  title: 'GymProxy: A lightweight Python wrapper for seamless integration of standalone simulators into Gymnasium environments'
+  volume: '127'
+  page-range: '110634'
+  url:
+    value: https://www.sciencedirect.com/science/article/pii/S0045790625005774
+    date: 2026-09-23
+  parent:
+    type: periodical
+    title: Computers and Electrical Engineering
+  date: 2025-10-01
+  serial-number:
+    doi: 10.1016/j.compeleceng.2025.110634
+    issn: 0045-7906
+  author:
+    - Park, Sae Hyong
+    - Shin, Seungjae
+    - Ko, Namseok
+    - Kim, Taeyeon
+    - Lee, Dongman
 planet:
   type: article
   title: Learning Latent Dynamics for Planning from Pixels
@@ -937,6 +958,21 @@ relod:
   date: 2023-05
   serial-number:
     doi: 10.1109/ICRA48891.2023.10160684
+  author:
+    - Wang, Yan
+    - Vasan, Gautham
+    - Mahmood, A. Rupam
+relod_preprint:
+  type: report
+  title: Real-Time Reinforcement Learning for Vision-Based Robotics Utilizing Local and Remote Computers
+  url:
+    value: http://arxiv.org/abs/2210.02317
+    date: 2026-09-10
+  parent:
+    title: arXiv.org
+  date: 2023-06-26
+  serial-number:
+    doi: 10.48550/arXiv.2210.02317
   author:
     - Wang, Yan
     - Vasan, Gautham
@@ -1090,6 +1126,27 @@ sandhaSim2RealTransferDeep2021:
     - Balaji, Bharathan
     - Anwar, Fatima
     - Srivastava, Mani
+schudererSimEnvDecouplingOpenAI2021:
+  type: article
+  title: 'Sim-Env: Decoupling OpenAI Gym Environments from Simulation Models'
+  language: en
+  page-range: 390-393
+  parent:
+    type: proceedings
+    title: Advances in Practical Applications of Agents, Multi-Agent Systems, and Social Good. The PAAMS Collection
+    location: Cham
+  date: 2021
+  serial-number:
+    doi: 10.1007/978-3-030-85739-4_39
+    isbn: 978-3-030-85739-4
+  author:
+    - Schuderer, Andreas
+    - Bromuri, Stefano
+    - van Eekelen, Marko
+  editor:
+    - Dignum, Frank
+    - Corchado, Juan Manuel
+    - De La Prieta, Fernando
 shengyi2022the37implementation:
   type: article
   title: The 37 implementation details of proximal policy optimization
@@ -1163,6 +1220,34 @@ torchrl:
     - Yang, Xiaomeng
     - Fabritiis, Gianni De
     - Moens, Vincent
+towersGymnasiumStandardInterface2025:
+  type: report
+  title: 'Gymnasium: A Standard Interface for Reinforcement Learning Environments'
+  url:
+    value: http://arxiv.org/abs/2407.17032
+    date: 2026-09-23
+  parent:
+    title: arXiv.org
+  date: 2025-11-02
+  serial-number:
+    doi: 10.48550/arXiv.2407.17032
+  author:
+    - Towers, Mark
+    - Kwiatkowski, Ariel
+    - Terry, Jordan
+    - Balis, John U.
+    - Cola, Gianluca De
+    - Deleu, Tristan
+    - Goulão, Manuel
+    - Kallinteris, Andreas
+    - Krimmel, Markus
+    - KG, Arjun
+    - Perez-Vicente, Rodrigo
+    - Pierré, Andrea
+    - Schulhoff, Sander
+    - Tai, Jun Jet
+    - Tan, Hannah
+    - Younis, Omar G.
 trpo:
   type: report
   title: Trust Region Policy Optimization
@@ -1202,21 +1287,6 @@ vacaroSimtoRealReinforcementLearning2019:
     - Paula, Thomas
     - Staehler, Wagston
     - Murphy, David
-wangRealTimeReinforcementLearning2023:
-  type: report
-  title: Real-Time Reinforcement Learning for Vision-Based Robotics Utilizing Local and Remote Computers
-  url:
-    value: http://arxiv.org/abs/2210.02317
-    date: 2026-09-10
-  parent:
-    title: arXiv.org
-  date: 2023-06-26
-  serial-number:
-    doi: 10.48550/arXiv.2210.02317
-  author:
-    - Wang, Yan
-    - Vasan, Gautham
-    - Mahmood, A. Rupam
 wuDayDreamerWorldModels2023:
   type: article
   title: 'DayDreamer: World Models for Physical Robot Learning'
