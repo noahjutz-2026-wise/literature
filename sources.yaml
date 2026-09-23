@@ -632,6 +632,21 @@ liuDigitalTwinbasedSimtoreal2022:
     - Xu, He
     - Liu, Ding
     - Wang, Lihui
+mcdonaldFootsiesGymFightingGame2026:
+  type: report
+  title: 'FootsiesGym: A Fighting Game Benchmark for Two-Player Zero-Sum Imperfect-Information Games'
+  url:
+    value: http://arxiv.org/abs/2607.06514
+    date: 2026-09-22
+  parent:
+    title: arXiv.org
+  date: 2026-07-07
+  serial-number:
+    doi: 10.48550/arXiv.2607.06514
+  author:
+    - McDonald, Chase
+    - Tsang, Nathan
+    - Kerr, Wesley N.
 meyerHarnessingDiscreteRepresentations2024:
   type: report
   title: Harnessing Discrete Representations For Continual Reinforcement Learning
