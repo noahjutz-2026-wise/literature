@@ -633,6 +633,23 @@ liuDigitalTwinbasedSimtoreal2022:
     - Xu, He
     - Liu, Ding
     - Wang, Lihui
+liuReferenceArchitectureReinforcement2026:
+  type: article
+  title: A Reference Architecture of Reinforcement Learning Frameworks
+  page-range: 98-109
+  url:
+    value: https://ieeexplore.ieee.org/document/11613069/
+    date: 2026-09-23
+  parent:
+    type: proceedings
+    title: 2026 IEEE 23rd International Conference on Software Architecture (ICSA)
+  date: 2026-06
+  serial-number:
+    doi: 10.1109/ICSA66085.2026.00016
+    issn: 2835-7043
+  author:
+    - Liu, Xiaoran
+    - David, Istvan
 mcdonaldFootsiesGymFightingGame2026:
   type: report
   title: 'FootsiesGym: A Fighting Game Benchmark for Two-Player Zero-Sum Imperfect-Information Games'
