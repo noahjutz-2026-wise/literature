@@ -1399,6 +1399,22 @@ waldemarkUsingReinforcementLearning1995:
   serial-number:
     doi: 10.1109/ICNN.1995.488230
   author: Waldemark, J.
+wongSurveyRoboticNavigation2026:
+  type: report
+  title: A Survey of Robotic Navigation and Manipulation with Physics Simulators in the Era of Embodied AI
+  url:
+    value: http://arxiv.org/abs/2505.01458
+    date: 2026-09-30
+  parent:
+    title: arXiv.org
+  date: 2026-06-09
+  serial-number:
+    doi: 10.48550/arXiv.2505.01458
+  author:
+    - Wong, Lik Hang Kenny
+    - Kang, Xueyang
+    - Bai, Kaixin
+    - Zhang, Jianwei
 wuDayDreamerWorldModels2023:
   type: article
   title: 'DayDreamer: World Models for Physical Robot Learning'
