@@ -1,3 +1,38 @@
+abdenebaouiConnectionistArchitectureLearning2007:
+  type: article
+  title: A Connectionist Architecture for Learning to Play a Simulated Brio Labyrinth Game
+  language: en
+  page-range: 427-430
+  parent:
+    type: proceedings
+    title: 'KI 2007: Advances in Artificial Intelligence'
+    location: Berlin, Heidelberg
+  date: 2007
+  serial-number:
+    doi: 10.1007/978-3-540-74565-5_32
+    isbn: 978-3-540-74565-5
+  author:
+    - Abdenebaoui, Larbi
+    - Kirchner, Elsa A.
+    - Kassahun, Yohannes
+    - Kirchner, Frank
+  editor:
+    - Hertzberg, Joachim
+    - Beetz, Michael
+    - Englert, Roman
+abdenebaouiDiplomThesisImplementationEvaluation2007:
+  type: article
+  title: Diplom-Thesis Implementation and Evaluation of a Connectionist Learning Architecture in a Simulated ”Brio Labyrinth Game”
+  page-range: 427-430
+  url:
+    value: https://web.archive.org/web/20211018180031/https://robotik.dfki-bremen.de/uploads/tx_dfkiprojects/Dipl_Arbeit_Larbi_Abenebaoui.pdf
+  parent:
+    type: periodical
+    title: Lecture Notes in Computer Science
+  date: 2007
+  serial-number:
+    doi: 10.1007/978-3-540-74565-5_32
+  author: Abdenebaoui, Larbi
 aggarwalNeuralNetworksDeep2023:
   type: book
   title: 'Neural Networks and Deep Learning: A Textbook'
@@ -665,6 +700,18 @@ mcdonaldFootsiesGymFightingGame2026:
     - McDonald, Chase
     - Tsang, Nathan
     - Kerr, Wesley N.
+metzenBRIOLabyrinthGameA2009:
+  type: article
+  title: The BRIO R © Labyrinth Game-A Testbed for Reinforcement Learning and for Studies on Sensorimotor Learning
+  url:
+    value: https://www.semanticscholar.org/paper/The-BRIO-R-%C2%A9-Labyrinth-Game-A-Testbed-for-Learning-Metzen-Kirchner/610317a28fba3c98bbd0df7f8406d073940a58f0
+    date: 2026-09-30
+  date: 2009
+  author:
+    - Metzen, J.
+    - Kirchner, E.
+    - Abdenebaoui, Larbi
+    - Kirchner, F.
 meyerHarnessingDiscreteRepresentations2024:
   type: report
   title: Harnessing Discrete Representations For Continual Reinforcement Learning
@@ -1304,6 +1351,21 @@ vacaroSimtoRealReinforcementLearning2019:
     - Paula, Thomas
     - Staehler, Wagston
     - Murphy, David
+waldemarkUsingReinforcementLearning1995:
+  type: article
+  title: Using reinforcement learning to solve the labyrinth game, a nonlinear control application
+  volume: '1'
+  page-range: 511-515 vol.1
+  url:
+    value: https://ieeexplore.ieee.org/document/488230/
+    date: 2026-09-30
+  parent:
+    type: proceedings
+    title: ICNN'95 - International Conference on Neural Networks
+  date: 1995-11
+  serial-number:
+    doi: 10.1109/ICNN.1995.488230
+  author: Waldemark, J.
 wuDayDreamerWorldModels2023:
   type: article
   title: 'DayDreamer: World Models for Physical Robot Learning'
