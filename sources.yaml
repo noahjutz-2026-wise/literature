@@ -120,6 +120,18 @@ bataduwaarachchiDeterministicDelayAwareReinforcement2024:
     - Trinh, Hieu
     - Lim, C.  P.
     - Huynh, Van Thanh
+bergattQuantificationMinimizationSimulationRealityGap2009:
+  type: article
+  title: Quantification and Minimization of the Simulation-Reality-Gap on a BRIO R © Labyrinth Game
+  url:
+    value: https://www.semanticscholar.org/paper/Quantification-and-Minimization-of-the-on-a-BRIO-R-Bergatt-Metzen/4db9ef20029cb155e17078c7e6633d8b25a2e095
+    date: 2026-09-30
+  date: 2009
+  author:
+    - Bergatt, Constantin
+    - Metzen, J.
+    - Kirchner, E.
+    - Kirchner, F.
 bischlHyperparameterOptimizationFoundations2021:
   type: report
   title: 'Hyperparameter Optimization: Foundations, Algorithms, Best Practices and Open Challenges'
@@ -860,6 +872,27 @@ nfq:
     - Tygar, Dough
     - Vardi, Moshe Y.
     - Weikum, Gerhard
+ofjallCombiningVisionMachine2016:
+  type: article
+  title: Combining Vision, Machine Learning and Automatic Control to Play the Labyrinth Game
+  url:
+    value: https://www.semanticscholar.org/paper/Combining-Vision%2C-Machine-Learning-and-Automatic-to-%C3%96fj%C3%A4ll-Felsberg/96c627db11d588b96aaec6b87fd5e3ea233d60da
+    date: 2026-09-30
+  parent:
+    type: periodical
+    title: ArXiv
+  date: 2016-02-01
+  author:
+    - Öfjäll, Kristoffer
+    - Felsberg, M.
+ofjallLEAPPlatformEvaluation2010:
+  type: article
+  title: LEAP, A Platform for Evaluation of Control Algorithms
+  url:
+    value: https://www.semanticscholar.org/paper/LEAP%2C-A-Platform-for-Evaluation-of-Control-%C3%96fj%C3%A4ll/79d7bc24b89538de4731fae9f71d50a3bb35ee7c
+    date: 2026-09-30
+  date: 2010
+  author: Öfjäll, Kristoffer
 otaDataEfficientLearningComplex2021:
   type: article
   title: Data-Efficient Learning for Complex and Real-Time Physical Problem Solving Using Augmented Simulation
