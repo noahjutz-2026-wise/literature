@@ -701,6 +701,16 @@ liuReferenceArchitectureReinforcement2026:
   author:
     - Liu, Xiaoran
     - David, Istvan
+marble_maze:
+  type: repository
+  title: Marble Maze (Unity + ML-Agents)
+  url:
+    value: https://github.com/suesas/marble-maze
+    date: 2026-10-01
+  date: 2026-09-30
+  author:
+    - Bart, Lennart Vincent
+    - Baumann, Maximilian
 mcdonaldFootsiesGymFightingGame2026:
   type: report
   title: 'FootsiesGym: A Fighting Game Benchmark for Two-Player Zero-Sum Imperfect-Information Games'
