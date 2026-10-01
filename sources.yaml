@@ -24,15 +24,15 @@ abdenebaouiDiplomThesisImplementationEvaluation2007:
   type: article
   title: Diplom-Thesis Implementation and Evaluation of a Connectionist Learning Architecture in a Simulated ”Brio Labyrinth Game”
   page-range: 427-430
-  url:
-    value: https://web.archive.org/web/20211018180031/https://robotik.dfki-bremen.de/uploads/tx_dfkiprojects/Dipl_Arbeit_Larbi_Abenebaoui.pdf
+  url: https://web.archive.org/web/20211018180031/https://robotik.dfki-bremen.de/uploads/tx_dfkiprojects/Dipl_Arbeit_Larbi_Abenebaoui.pdf
   parent:
     type: periodical
     title: Lecture Notes in Computer Science
   date: 2007
   serial-number:
     doi: 10.1007/978-3-540-74565-5_32
-  author: Abdenebaoui, Larbi
+  author:
+    - Abdenebaoui, Larbi
 aggarwalNeuralNetworksDeep2023:
   type: book
   title: 'Neural Networks and Deep Learning: A Textbook'
@@ -47,12 +47,13 @@ aggarwalNeuralNetworksDeep2023:
   serial-number:
     doi: 10.1007/978-3-031-29642-0
     isbn: 978-3-031-29641-3 978-3-031-29642-0
-  author: Aggarwal, Charu C.
+  author:
+    - Aggarwal, Charu C.
 arulkumaranBriefSurveyDeep2017:
   type: article
   title: A Brief Survey of Deep Reinforcement Learning
-  volume: '34'
-  issue: '6'
+  volume: 34
+  issue: 6
   page-range: 26-38
   url:
     value: http://arxiv.org/abs/1708.05866
@@ -245,8 +246,8 @@ dalnevoDeepReinforcementLearning2025:
   type: article
   title: 'Deep Reinforcement Learning for Autonomous Navigation: Sim-to-Real Transfer on TurtleBots'
   language: en
-  volume: '59'
-  issue: '26'
+  volume: 59
+  issue: 26
   page-range: 13-18
   url:
     value: https://linkinghub.elsevier.com/retrieve/pii/S2405896325026795
@@ -304,8 +305,8 @@ dreamerv3:
   type: article
   title: Mastering diverse control tasks through world models
   language: en
-  volume: '640'
-  issue: '8059'
+  volume: 640
+  issue: 8059
   page-range: 647-653
   url:
     value: https://www.nature.com/articles/s41586-025-08744-2
@@ -403,7 +404,8 @@ godoyDeepLearningPyTorch:
     value: https://pytorchstepbystep.com
     date: 2026-09-12
   date: 2026-09-12
-  author: Godoy, Daniel Voigt
+  author:
+    - Godoy, Daniel Voigt
 hafnerMasteringDiverseDomains2024:
   type: report
   title: Mastering Diverse Domains through World Models
@@ -423,8 +425,8 @@ hafnerMasteringDiverseDomains2024:
 jaegerInvitationDeepReinforcement2024:
   type: article
   title: An Invitation to Deep Reinforcement Learning
-  volume: '7'
-  issue: '1'
+  volume: 7
+  issue: 1
   page-range: 1-80
   url:
     value: http://arxiv.org/abs/2312.08365
@@ -487,7 +489,8 @@ kakadeNaturalPolicyGradient:
   type: article
   title: A Natural Policy Gradient
   language: en
-  author: Kakade, Sham
+  author:
+    - Kakade, Sham
 karamzadeModelBasedReinforcementLearning2026:
   type: report
   title: Model-Based Reinforcement Learning under Random Observation Delays
@@ -645,8 +648,8 @@ linSelfimprovingReactiveAgents1992:
   type: article
   title: Self-improving reactive agents based on reinforcement learning, planning and teaching
   language: en
-  volume: '8'
-  issue: '3'
+  volume: 8
+  issue: 3
   page-range: 293-321
   url:
     value: https://doi.org/10.1007/BF00992699
@@ -658,13 +661,14 @@ linSelfimprovingReactiveAgents1992:
   serial-number:
     doi: 10.1007/BF00992699
     issn: 1573-0565
-  author: Lin, Long-Ji
+  author:
+    - Lin, Long-Ji
 liuDigitalTwinbasedSimtoreal2022:
   type: article
   title: A digital twin-based sim-to-real transfer for deep reinforcement learning-enabled industrial robot grasping
   language: en
-  volume: '78'
-  page-range: '102365'
+  volume: 78
+  page-range: 102365
   url:
     value: https://linkinghub.elsevier.com/retrieve/pii/S0736584522000539
     date: 2026-08-19
@@ -793,7 +797,7 @@ muratoreRobotLearningRandomized2022:
   type: article
   title: 'Robot Learning From Randomized Simulations: A Review'
   language: English
-  volume: '9'
+  volume: 9
   url:
     value: https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2022.799893/full
     date: 2026-08-18
@@ -834,7 +838,7 @@ nathRevisitingStateAugmentation2021:
 nfq:
   type: chapter
   title: Neural Fitted Q Iteration – First Experiences with a Data Efficient Neural Reinforcement Learning Method
-  volume: '3720'
+  volume: 3720
   page-range: 317-328
   url:
     value: http://link.springer.com/10.1007/11564096_32
@@ -849,7 +853,8 @@ nfq:
   serial-number:
     doi: 10.1007/11564096_32
     isbn: 978-3-540-29243-2 978-3-540-31692-3
-  author: Riedmiller, Martin
+  author:
+    - Riedmiller, Martin
   editor:
     - Gama, João
     - Camacho, Rui
@@ -892,12 +897,13 @@ ofjallLEAPPlatformEvaluation2010:
     value: https://www.semanticscholar.org/paper/LEAP%2C-A-Platform-for-Evaluation-of-Control-%C3%96fj%C3%A4ll/79d7bc24b89538de4731fae9f71d50a3bb35ee7c
     date: 2026-09-30
   date: 2010
-  author: Öfjäll, Kristoffer
+  author:
+    - Öfjäll, Kristoffer
 otaDataEfficientLearningComplex2021:
   type: article
   title: Data-Efficient Learning for Complex and Real-Time Physical Problem Solving Using Augmented Simulation
-  volume: '6'
-  issue: '2'
+  volume: 6
+  issue: 2
   page-range: 4241-4248
   url:
     value: https://ieeexplore.ieee.org/document/9387127/
@@ -923,8 +929,8 @@ otaDataEfficientLearningComplex2021:
 parkGymProxyLightweightPython2025:
   type: article
   title: 'GymProxy: A lightweight Python wrapper for seamless integration of standalone simulators into Gymnasium environments'
-  volume: '127'
-  page-range: '110634'
+  volume: 127
+  page-range: 110634
   url:
     value: https://www.sciencedirect.com/science/article/pii/S0045790625005774
     date: 2026-09-23
@@ -1077,8 +1083,8 @@ relod_preprint:
 ReviewHyperparameterTuning2026:
   type: article
   title: A Review of Hyperparameter Tuning Methods for Reinforcement Learning——Taking DQN, PPO, and A3C Algorithms as Examples
-  volume: '10'
-  issue: '1'
+  volume: 10
+  issue: 1
   url:
     value: https://www.clausiuspress.com/article/17262.html
     date: 2026-08-27
@@ -1093,7 +1099,7 @@ rizzardoSimtorealLatentPrediction2023:
   type: article
   title: 'Sim-to-real via latent prediction: Transferring visual non-prehensile manipulation policies'
   language: English
-  volume: '9'
+  volume: 9
   url:
     value: https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2022.1067502/full
     date: 2026-09-22
@@ -1135,8 +1141,8 @@ rllib:
 ros2:
   type: article
   title: 'Robot Operating System 2: Design, Architecture, and Uses In The Wild'
-  volume: '7'
-  issue: '66'
+  volume: 7
+  issue: 66
   page-range: eabm6074
   url:
     value: http://arxiv.org/abs/2211.07752
@@ -1176,7 +1182,7 @@ rothertSimtoRealTransferRobotics2024:
 salvatoCrossingRealityGap2021:
   type: article
   title: 'Crossing the Reality Gap: A Survey on Sim-to-Real Transferability of Robot Controllers in Reinforcement Learning'
-  volume: '9'
+  volume: 9
   page-range: 153171-153187
   url:
     value: https://ieeexplore.ieee.org/document/9606868/
@@ -1247,8 +1253,7 @@ schudererSimEnvDecouplingOpenAI2021:
 shengyi2022the37implementation:
   type: article
   title: The 37 implementation details of proximal policy optimization
-  url:
-    value: https://iclr-blog-track.github.io/2022/03/25/ppo-implementation-details/
+  url: https://iclr-blog-track.github.io/2022/03/25/ppo-implementation-details/
   parent:
     type: proceedings
     title: ICLR blog track
@@ -1274,8 +1279,8 @@ suttonDynaIntegratedArchitecture1991:
   type: article
   title: Dyna, an integrated architecture for learning, planning, and reacting
   language: en
-  volume: '2'
-  issue: '4'
+  volume: 2
+  issue: 4
   page-range: 160-163
   url:
     value: https://dl.acm.org/doi/10.1145/122344.122377
@@ -1287,7 +1292,8 @@ suttonDynaIntegratedArchitecture1991:
   serial-number:
     doi: 10.1145/122344.122377
     issn: 0163-5719
-  author: Sutton, Richard S.
+  author:
+    - Sutton, Richard S.
 suttonPolicyGradientMethods:
   type: article
   title: Policy Gradient Methods for Reinforcement Learning with Function Approximation
@@ -1387,7 +1393,7 @@ vacaroSimtoRealReinforcementLearning2019:
 waldemarkUsingReinforcementLearning1995:
   type: article
   title: Using reinforcement learning to solve the labyrinth game, a nonlinear control application
-  volume: '1'
+  volume: 1
   page-range: 511-515 vol.1
   url:
     value: https://ieeexplore.ieee.org/document/488230/
@@ -1398,7 +1404,8 @@ waldemarkUsingReinforcementLearning1995:
   date: 1995-11
   serial-number:
     doi: 10.1109/ICNN.1995.488230
-  author: Waldemark, J.
+  author:
+    - Waldemark, J.
 wongSurveyRoboticNavigation2026:
   type: report
   title: A Survey of Robotic Navigation and Manipulation with Physics Simulators in the Era of Embodied AI
@@ -1457,7 +1464,7 @@ xiaoThinkingMovingDeep2020:
 yangHyperparameterOptimizationMachine2020:
   type: article
   title: 'On Hyperparameter Optimization of Machine Learning Algorithms: Theory and Practice'
-  volume: '415'
+  volume: 415
   page-range: 295-316
   url:
     value: http://arxiv.org/abs/2007.15745
