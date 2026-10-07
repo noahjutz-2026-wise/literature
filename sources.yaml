@@ -121,6 +121,16 @@ bataduwaarachchiDeterministicDelayAwareReinforcement2024:
     - Trinh, Hieu
     - Lim, C.  P.
     - Huynh, Van Thanh
+bellmanDynamicProgramming1957:
+  type: book
+  title: Dynamic programming.
+  language: eng
+  publisher:
+    name: Princeton University Press
+    location: Princeton
+  date: 1957
+  author:
+    - Bellman, Richard Ernest
 bergattQuantificationMinimizationSimulationRealityGap2009:
   type: article
   title: Quantification and Minimization of the Simulation-Reality-Gap on a BRIO R © Labyrinth Game
