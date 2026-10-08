@@ -123,12 +123,14 @@ bataduwaarachchiDeterministicDelayAwareReinforcement2024:
     - Huynh, Van Thanh
 bellmanDynamicProgramming1957:
   type: book
-  title: Dynamic programming.
-  language: eng
+  title: Dynamic programming
+  language: en
   publisher:
     name: Princeton University Press
     location: Princeton
   date: 1957
+  serial-number:
+    isbn: 978-0-691-07951-6
   author:
     - Bellman, Richard Ernest
 bergattQuantificationMinimizationSimulationRealityGap2009:
@@ -1001,6 +1003,29 @@ ppo:
     - Dhariwal, Prafulla
     - Radford, Alec
     - Klimov, Oleg
+putermanMarkovDecisionProcesses1994:
+  type: book
+  title: 'Markov Decision Processes: Discrete Stochastic Dynamic Programming'
+  publisher:
+    name: John Wiley & Sons, Inc.
+    location: USA
+  date: 1994
+  serial-number:
+    isbn: 978-0-471-61977-2
+  author:
+    - Puterman, Martin L.
+putermanMarkovDecisionProcesses1994a:
+  type: book
+  title: 'Markov decision processes: discrete stochastic dynamic programming'
+  language: eng
+  publisher:
+    name: Wiley
+    location: New York
+  date: 1994
+  serial-number:
+    isbn: 978-0-471-61977-2
+  author:
+    - Puterman, Martin L.
 pytorch:
   type: report
   title: 'PyTorch: An Imperative Style, High-Performance Deep Learning Library'
