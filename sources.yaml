@@ -1014,18 +1014,6 @@ putermanMarkovDecisionProcesses1994:
     isbn: 978-0-471-61977-2
   author:
     - Puterman, Martin L.
-putermanMarkovDecisionProcesses1994a:
-  type: book
-  title: 'Markov decision processes: discrete stochastic dynamic programming'
-  language: eng
-  publisher:
-    name: Wiley
-    location: New York
-  date: 1994
-  serial-number:
-    isbn: 978-0-471-61977-2
-  author:
-    - Puterman, Martin L.
 pytorch:
   type: report
   title: 'PyTorch: An Imperative Style, High-Performance Deep Learning Library'
